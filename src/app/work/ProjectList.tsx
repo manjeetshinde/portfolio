@@ -70,6 +70,14 @@ const projects = [
     href: "https://app.procillage.com/pathox",
   },
   {
+    title: "Pathox Share",
+    description:
+      "Next.js application designed to make easy bulk upload of files for pathology staff and enable patients to easily get reports without follow-ups or human delays.",
+    tags: ["Healthcare", "Next.js", "SQLite", "File Management"],
+    isPublic: true,
+    href: "https://pathox-share.procillage.com/",
+  },
+  {
     title: "Vidyut KRG",
     description:
       "Vidyut KRG is dedicated to marketing a startup focused on sustainable mobility by converting petrol to hybrid/electric vehicles.",
